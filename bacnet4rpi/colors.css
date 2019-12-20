@@ -1,0 +1,51 @@
+body {
+	color: rgb(68, 68, 68);
+}
+a:link {
+	color: rgb(40, 131, 222);
+}
+a:visited {
+	color: rgb(40, 131, 222);
+}
+a:hover {
+	color: rgb(0, 0, 0);
+}
+a:active {
+	color: rgb(0, 0, 0);
+}
+a:focus {
+	color: rgb(0, 0, 0);
+}
+h1 {
+	color: rgb(24, 24, 24);
+}
+h2 {
+	color: rgb(24, 24, 24);
+}
+h3 {
+	color: rgb(24, 24, 24);
+}
+h4 {
+	color: rgb(24, 24, 24);
+}
+h5 {
+	color: rgb(24, 24, 24);
+}
+h6 {
+	color: rgb(24, 24, 24);
+}
+#header #site-name a {
+	color: rgb(38, 38, 38);
+}
+#header #site-name a:hover {
+	color: rgb(50, 83, 173);
+}
+#header #site-slogan {
+	color: rgb(125, 125, 125);
+}
+body {
+	border-color: rgb(55, 81, 153);
+}
+#wrap {
+	border-color: rgb(69, 101, 190);
+}
